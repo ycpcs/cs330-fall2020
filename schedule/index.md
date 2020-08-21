@@ -10,4 +10,4 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 
 >  Week    | Date     | Topic        | Readings   | Assignments                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
-> 1  | Aug 24  | Introduction and Course Overview | | [Ethics](../assign/assignment01.html) 
+> 1  | Aug 25  | Introduction and Course Overview | | [Ethics](../assign/assignment01.html)
