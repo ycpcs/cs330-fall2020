@@ -3,7 +3,7 @@ layout: default
 title: Syllabus
 ---
 
-CS 330 - NETWORK APPLICATIONS AND PROTOCOLS
+NETWORK APPLICATIONS AND PROTOCOLS
 ========================================
 
 **Fall 2020**
@@ -83,7 +83,7 @@ Readings from your text book will be assigned throughout the semester. You will 
 Homework Assignments
 -----------------
 
-Homework assignments will be based on the lab activities performed during class and may include both written and programming components. Collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
+Homework assignments will be based on the lab activities performed during class and may include both written and programming components. High Level design  collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
 
 **You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments.
 
@@ -93,9 +93,9 @@ Late assignments will be marked down 20% per day late. **No credit will be given
 
 **Important**: As mentioned above in the **Grades** section, you must make a good faith effort to complete all of the homework assignments in order to receive a passing grade for the course.
 
-Programs will be graded based on the following criteria:
+Programming Assignments will be graded based on the following criteria:
 
-> 4: **Superior.** The program extends the basic requirements significantly by implementing additional graphical features covered in the text and other resources.
+> 4: **Superior.** The program extends the basic requirements significantly by implementing additional features covered in the text and other resources.
 >
 > 3-3.5: **Good.** The program goes beyond the basic requirements by embellishing the final output using techniques discussed in class.
 >
@@ -129,7 +129,7 @@ Academic Integrity
 
 York College’s mission statement stipulates that strict adherence to principles of academic honesty is expected of all students. Therefore, academic dishonesty will not be tolerated at York College. Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabricating research, falsifying academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
 
-The following policy pertains to homework and graded (individual) Lab assignments:
+The following policy pertains to homework and (individual) lab assignments:
 
 > All graded (individual) programming assignments are to be completed individually. I encourage you to discuss high level concepts with other students, but any work you submit **must be yours alone**.
 >

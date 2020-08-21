@@ -13,7 +13,7 @@ All information about the course will be posted here.
 * [Schedule](schedule/index.html)
 * [Labs](labs/index.html)
 * [Assignments](assign/index.html)
-* [Resources](resources.html)
+* [Resources](resources/index.html)
 * [Syllabus](syllabus.html)
 * [Ethics](assign/ethics.md)
 

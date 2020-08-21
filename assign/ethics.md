@@ -22,7 +22,6 @@ Cyber Criminals are hunted down by [FBI](https://www.fbi.gov/investigate/cyber),
 
 Understand what the law prohibits! You don’t want to end up like:
 - [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody.
-
 - [Albert Gonzalez](https://www.justice.gov/opa/pr/leader-hacking-ring-sentenced-massive-identity-thefts-payment-processor-and-us-retail) gets 20 years for hacking TJX Companies and Heartland Payment Systems.
 - [Roman Seleznev](https://www.justice.gov/opa/pr/russian-cyber-criminal-sentenced-14-years-prison-role-organized-cybercrime-ring-responsible) was sentenced to 27 years' imprisonment for running Organized Cybercrime Ring.
 - [Max Butler](https://archives.fbi.gov/archives/pittsburgh/press-releases/2010/pt021210b.htm) Receives 13-Year Prison Sentence for identity theft.
