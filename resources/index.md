@@ -62,13 +62,13 @@ Supplemental Material
 References
 -----------------------------------
 
-- [Root Servers](https://root-servers.org/) map
-- Internet Assigned Numbers Authority [IANA](https://www.iana.org/)
-- Service Name and Transport Protocol Port Number [Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
+- [Root Servers Map](https://root-servers.org/)
+- [IANA](https://www.iana.org/) - Internet Assigned Numbers Authority
+- [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 - CERN 2019 [WorldWideWeb](https://worldwideweb.cern.ch/browser/) Rebuild
 - [The CERT Division](https://www.sei.cmu.edu/about/divisions/cert/index.cfm) at Carnegie Mellon University
-- Assigned Internet [Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
-- [IEEE 802.3](http://www.ieee802.org/3/) ETHERNET WORKING GROUP
+- [Assigned Internet Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
+- [IEEE 802.3](http://www.ieee802.org/3/) - ETHERNET WORKING GROUP
 
-Technical Documentation 
+Technical Documentation
 -----------------------------------

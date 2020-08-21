@@ -5,5 +5,5 @@ title: "Labs"
 
 This page links to individual labs.
 
->  Date   | Lab | File(s) | Due |
-> ------- | --- | ------- | ----|
+>  Date   | Lab | File(s) | Due
+> ------- | --- | ------- | ----
