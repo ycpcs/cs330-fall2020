@@ -83,7 +83,9 @@ Readings from your text book will be assigned throughout the semester. You will 
 Homework Assignments
 -----------------
 
-Homework assignments will be based on the lab activities performed during class and may include both written and programming components. High Level design  collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
+Homework assignments will be based on the lab activities performed during class and may include both written and programming components. High Level Design collaboration on homework assignments is encouraged, but each student must submit their own assignment solutions that demonstrate their understanding of the material.
+
+<p>Most labs will incorporate Wireshark: <a href="https://www.wireshark.org/">https://www.wireshark.org/</a>. Wireshark is installed in the lab.</p>
 
 **You MUST make a legitimate attempt to complete every homework assignment.** I reserve the right to fail any student who does not make a good faith effort to complete all of the homework assignments.
 
@@ -111,8 +113,6 @@ Posting and submission of assignments and labs
 Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs330-fall2020/](<https://ycpcs.github.io/cs330-fall2020/>).
 
 Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.</p>
-
-<p>Most labs will incorporate Wireshark: <a href="https://www.wireshark.org/">https://www.wireshark.org/</a>. Wireshark is installed in the lab.</p>
 
 Exams
 -----------------

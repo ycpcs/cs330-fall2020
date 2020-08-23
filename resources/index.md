@@ -59,6 +59,11 @@ Supplemental Material
 -  [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
 -  [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
 
+Bounty Platform
+-----------------------------------
+- [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+- [Bugcrowd](https://www.bugcrowd.com/) is a crowdsourced security platform; managing organizations bug bounty, vulnerability disclosure, and next-gen pen test programs.
+
 References
 -----------------------------------
 
