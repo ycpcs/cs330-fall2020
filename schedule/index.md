@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS330 Course Schedule - Fall 2020"
+title: "Course Schedule - Fall 2020"
 ---
 
 This page provides a tentative schedule for the course.
