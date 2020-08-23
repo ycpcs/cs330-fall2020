@@ -38,7 +38,7 @@ All information about the course will be posted here.
 * **Sept 19** - Lab 3: [Wireshark - HTTP](labs/Wireshark_HTTP_v7.0.pdf) Due
 * **Sept 17** - Assignment 2: [Homework - Chapter 1](assign/assign02.html) Due
 * **Sept 12** - Lab 2: [Basic Network Footprinting](labs/lab01.html) Due
-* **Sept 05** - Lab 1: [Wireshark - Intro](labs/Wireshark_Intro_v7.0.pdf) Due
 -->
+* **Sept 03** - Wireshark Lab 1: [Getting Started](labs/files/Wireshark_Intro_v7.0.pdf) Due
 * **Sept 01** - Review Ethics Guide: [Ethics Guide](assign/assignment01.html) Due
 * **Aug 25** - Welcome back!
