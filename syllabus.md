@@ -46,9 +46,9 @@ The following topics will tentatively be covered:
 
 Your overall grade for the course will be determined as follows:
 
--   Labs and Participation: 10%
+-   Attendance and Participation: 10%
 -   Programming exercises: 15%
--   Homework: 15% <strong>(*)</strong>
+-   Labs and Homework: 15% <strong>(*)</strong>
 -   Exams (2 midterms and 1 cumulative final exam): 60% <strong>(†)</strong>
 
 <p><strong>(*)</strong> You must demonstrate significant effort on all homework assignments in order to pass the course.</p>
