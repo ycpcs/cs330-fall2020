@@ -53,7 +53,7 @@ Your overall grade for the course will be determined as follows:
 
 <p><strong>(*)</strong> You must demonstrate significant effort on all homework assignments in order to pass the course.</p>
 
-<p><strong>(†)</strong> You must pass (receive a grade of 70 or higher) on at least one exam, <em>and</em> have an average of 60 or higher on your two highest exam grades, in order to receive a passing grade for the course.
+<p><strong>(†)</strong> You must pass (receive a grade of 70 or higher) on at least one exam, <em>and</em> have an average of 60 or higher on your two highest exam grades, in order to receive a passing grade for the course.</p>
 
 ### Grading scale
 
