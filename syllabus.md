@@ -112,7 +112,7 @@ Posting and submission of assignments and labs
 
 Assignments and labs will be posted on the course web page,  [https://ycpcs.github.io/cs330-fall2020/](<https://ycpcs.github.io/cs330-fall2020/>).
 
-Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.</p>
+Assignments and labs will be submitted using the server <a href="https://cs.ycp.edu/marmoset/">https://cs.ycp.edu/marmoset/</a>. You will receive an email containing the username and password you will use for this server.
 
 Exams
 -----------------
