@@ -84,3 +84,5 @@ Technical Documentation
   - [RFC 7233](https://tools.ietf.org/html/rfc7233), HTTP/1.1: Range Requests
   - [RFC 7234](https://tools.ietf.org/html/rfc7234), HTTP/1.1: Caching
   - [RFC 7235](https://tools.ietf.org/html/rfc7235), HTTP/1.1: Authentication
+  - [RFC 7540](https://tools.ietf.org/html/rfc7540), HTTP/2
+  - [draft-ietf-quic-http](https://tools.ietf.org/html/draft-ietf-quic-http-23), HTTP/3
