@@ -9,3 +9,4 @@ This page links to individual labs.
 > ------- | --- | ------- | ----
 > Aug 25 | Wireshark | [Getting Started](files/Wireshark_Intro_v7.0.pdf) | Sept 03
 > Sept 08 | Wireshark | [HTTP](files/Wireshark_HTTP_v7.0.pdf) | Sept 17
+> Sept 10 | Wireshark | [DNS](files/Wireshark_DNS_v7.0.pdf) | Sept 22

@@ -77,7 +77,7 @@ References
 
 Technical Documentation
 -----------------------------------
-#### HTTP
+##### HTTP
   - [RFC 7230](https://tools.ietf.org/html/rfc7230), HTTP/1.1: Message Syntax and Routing
   - [RFC 7231](https://tools.ietf.org/html/rfc7231), HTTP/1.1: Semantics and Content
   - [RFC 7232](https://tools.ietf.org/html/rfc7232), HTTP/1.1: Conditional Requests
@@ -87,10 +87,22 @@ Technical Documentation
   - [RFC 7540](https://tools.ietf.org/html/rfc7540), HTTP/2
   - [draft-ietf-quic-http](https://tools.ietf.org/html/draft-ietf-quic-http-23), HTTP/3
 
-#### SMTP
+##### SMTP
   - [RFC 2920](https://tools.ietf.org/html/rfc2920), SMTP: Service Extension for Command Pipelining (STD 60)
   - [RFC 3030](https://tools.ietf.org/html/rfc3030), SMTP: Service Extensions for Transmission of Large and Binary MIME Messages
   - [RFC 3207](https://tools.ietf.org/html/rfc3207), SMTP: Service Extension for Secure SMTP over Transport Layer Security
   - [RFC 3461](https://tools.ietf.org/html/rfc3461), SMTP: Service Extension for Delivery Status Notifications
   - [RFC 5321](https://tools.ietf.org/html/rfc5321), Simple Mail Transfer Protocol
   - [RFC 6531](https://tools.ietf.org/html/rfc6531), SMTP: Extension for Internationalized Email Addresses
+
+##### DNS
+  - [RFC 1034](https://tools.ietf.org/html/rfc1034), Domain Names - Concepts and Facilities
+  - [RFC 1035](https://tools.ietf.org/html/rfc1035), Domain Names - Implementation and Specification
+  - [RFC 1123](https://tools.ietf.org/html/rfc1123), Requirements for Internet Hosts—Application and Support
+  - [RFC 1995](https://tools.ietf.org/html/rfc1995), Incremental Zone Transfer in DNS
+  - [RFC 3225](https://tools.ietf.org/html/rfc3225), Indicating Resolver Support of DNSSEC
+  - [RFC 3226](https://tools.ietf.org/html/rfc3226), DNSSEC and IPv6 A6 aware server/resolver message size requirements
+  - [RFC 3596](https://tools.ietf.org/html/rfc3596), DNS Extensions to Support IP Version 6
+  - [RFC 7858](https://tools.ietf.org/html/rfc7858), Specification for DNS over Transport Layer Security (TLS)
+  - [RFC 8310](https://tools.ietf.org/html/rfc8310), Usage Profiles for DNS over TLS and DNS over DTLS
+  - [RFC 8484](https://tools.ietf.org/html/rfc8484), DNS Queries over HTTPS (DoH)
