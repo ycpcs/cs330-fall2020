@@ -86,3 +86,10 @@ Technical Documentation
   - [RFC 7235](https://tools.ietf.org/html/rfc7235), HTTP/1.1: Authentication
   - [RFC 7540](https://tools.ietf.org/html/rfc7540), HTTP/2
   - [draft-ietf-quic-http](https://tools.ietf.org/html/draft-ietf-quic-http-23), HTTP/3
+
+#### SMTP
+  - [RFC 2821](https://tools.ietf.org/html/rfc2821), Simple Mail Transfer Protocol
+  - [RFC 2920](https://tools.ietf.org/html/rfc2920), SMTP Service Extension for Command Pipelining (STD 60)
+  - [RFC 3030](https://tools.ietf.org/html/rfc3030), SMTP Service Extensions for Transmission of Large and Binary MIME Messages
+  - [RFC 3207](https://tools.ietf.org/html/rfc3207), SMTP Service Extension for Secure SMTP over Transport Layer Security
+  - [RFC 3461](https://tools.ietf.org/html/rfc3461), SMTP Service Extension for Delivery Status Notifications
