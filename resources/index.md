@@ -88,8 +88,9 @@ Technical Documentation
   - [draft-ietf-quic-http](https://tools.ietf.org/html/draft-ietf-quic-http-23), HTTP/3
 
 #### SMTP
-  - [RFC 2821](https://tools.ietf.org/html/rfc2821), Simple Mail Transfer Protocol
-  - [RFC 2920](https://tools.ietf.org/html/rfc2920), SMTP Service Extension for Command Pipelining (STD 60)
-  - [RFC 3030](https://tools.ietf.org/html/rfc3030), SMTP Service Extensions for Transmission of Large and Binary MIME Messages
-  - [RFC 3207](https://tools.ietf.org/html/rfc3207), SMTP Service Extension for Secure SMTP over Transport Layer Security
-  - [RFC 3461](https://tools.ietf.org/html/rfc3461), SMTP Service Extension for Delivery Status Notifications
+  - [RFC 2920](https://tools.ietf.org/html/rfc2920), SMTP: Service Extension for Command Pipelining (STD 60)
+  - [RFC 3030](https://tools.ietf.org/html/rfc3030), SMTP: Service Extensions for Transmission of Large and Binary MIME Messages
+  - [RFC 3207](https://tools.ietf.org/html/rfc3207), SMTP: Service Extension for Secure SMTP over Transport Layer Security
+  - [RFC 3461](https://tools.ietf.org/html/rfc3461), SMTP: Service Extension for Delivery Status Notifications
+  - [RFC 5321](https://tools.ietf.org/html/rfc5321), Simple Mail Transfer Protocol
+  - [RFC 6531](https://tools.ietf.org/html/rfc6531), SMTP: Extension for Internationalized Email Addresses
