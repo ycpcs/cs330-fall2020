@@ -95,6 +95,12 @@ Technical Documentation
   - [RFC 5321](https://tools.ietf.org/html/rfc5321), Simple Mail Transfer Protocol
   - [RFC 6531](https://tools.ietf.org/html/rfc6531), SMTP: Extension for Internationalized Email Addresses
 
+#### IMAP
+  - [RFC 3501](https://tools.ietf.org/html/rfc3501), IMAP version 4 revision 1
+
+#### POP3
+  - [RFC 1939](https://tools.ietf.org/html/rfc1939), Post Office Protocol - Version 3
+
 ##### DNS
   - [RFC 1034](https://tools.ietf.org/html/rfc1034), Domain Names - Concepts and Facilities
   - [RFC 1035](https://tools.ietf.org/html/rfc1035), Domain Names - Implementation and Specification
