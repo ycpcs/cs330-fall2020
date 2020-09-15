@@ -19,6 +19,6 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 3  | Sept 8 | Application Layer: [HTTP](slides/chapter_2.pdf) | CN: 2.1 - 2.2 | Wireshark Lab - [HTTP](../labs/files/Wireshark_HTTP_v7.0.pdf)
 > 3  | Sept 10 | Application Layer: [SMTP & DNS](slides/chapter_2.pdf) | CN: 2.3 - 2.4 | Wireshark Lab - [DNS](../labs/files/Wireshark_DNS_v7.0.pdf)
 > | | | |
-> 4  | Sept 15 | Application Layer: [P2P,CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 |
+> 4  | Sept 15 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 |
 > 4  | Sept 17 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 |
 > | | | |
