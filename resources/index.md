@@ -10,7 +10,7 @@ Development Environment
 - Microsoft  [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 - [GCC](https://gcc.gnu.org/), the GNU Compiler Collection.
 - [GDB](https://www.gnu.org/software/gdb/), the GNU Project Debugger.
--  [Apache NetBeans](ttps://netbeans.org/) Quickly and easily develop desktop, mobile, and web applications
+- [Apache NetBeans](https://netbeans.org/) Quickly and easily develop desktop, mobile, and web applications
 with Java, JavaScript, HTML5, PHP, C/C++ and more.
 
 Passive Capture
