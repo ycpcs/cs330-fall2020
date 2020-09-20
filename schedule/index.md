@@ -22,10 +22,10 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 4  | Sept 15 | Application Layer: [P2P, CDN](slides/chapter_2.pdf) | CN: 2.5 - 2.6 |
 > 4  | Sept 17 | Application Layer: [Socket Programming](slides/chapter_2.pdf) | CN: 2.7 |
 > | | | |
-> 5  | Sept 22  | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/Wireshark_UDP_v7.0.pdf) <sup>*</sup>
+> 5  | Sept 22  | Transport Layer: [Design Issues, UDP](slides/chapter_3.pdf) | CN: 3.1 - 3.3 | Wireshark Lab - [UDP](../labs/files/Wireshark_UDP_v7.0.pdf) <sup>*</sup>
 > 5  | Sept 24  | Transport Layer: [Reliable Data Transfer](slides/chapter_3.pdf) | CN: 3.4 | [Reliable Data Transfer](../labs/rdt.html)
 > | | |
-> 6  | Sept 29    | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/Wireshark_TCP_v7.0.pdf)
+> 6  | Sept 29    | Transport Layer: [TCP](slides/chapter_3.pdf) | CN: 3.5 | Wireshark Lab - [TCP](../labs/files/Wireshark_TCP_v7.0.pdf)
 > 6  | Oct 1    | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  
 > | | | |
 > 7  | Oct 6   | **Exam 1** | CN: 1.1 - 3.8
