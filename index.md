@@ -41,7 +41,7 @@ All information about the course will be posted here.
 -->
 
 * **Oct 10** - Wireshark Lab 4: [TCP](labs/files/Wireshark_TCP_v7.0.pdf)
-* **Oct 06** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
+* **Oct 08** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
 * **Oct 01** - _Optional_ Wireshark Lab: [UDP](labs/files/Wireshark_UDP_v7.0.pdf) Due
 * **Sept 22** - Wireshark Lab 3: [DNS](labs/files/Wireshark_DNS_v7.0.pdf) Due
 * **Sept 17** - Wireshark Lab 2: [HTTP](labs/files/Wireshark_HTTP_v7.0.pdf) Due
