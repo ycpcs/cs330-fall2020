@@ -116,3 +116,15 @@ Technical Documentation
   - [RFC 7858](https://tools.ietf.org/html/rfc7858), Specification for DNS over Transport Layer Security (TLS)
   - [RFC 8310](https://tools.ietf.org/html/rfc8310), Usage Profiles for DNS over TLS and DNS over DTLS
   - [RFC 8484](https://tools.ietf.org/html/rfc8484), DNS Queries over HTTPS (DoH)
+
+##### TCP
+  - [RFC 793](https://tools.ietf.org/html/rfc793), TCP v4
+  - [STD 7](https://tools.ietf.org/html/std7), Transmission Control Protocol, Protocol specification
+  - [RFC 1122](https://tools.ietf.org/html/rfc1122), Requirements for Internet Hosts -- Communication Layers
+  - [RFC 1948](https://tools.ietf.org/html/rfc1948), Defending Against Sequence Number Attacks
+  - [RFC 2018](https://tools.ietf.org/html/rfc2018), TCP Selective Acknowledgment Options
+  - [RFC 5681](https://tools.ietf.org/html/rfc5681), TCP Congestion Control
+  - [RFC 6298](https://tools.ietf.org/html/rfc6298), Computing TCP's Retransmission Timer
+  - [RFC 6824](https://tools.ietf.org/html/rfc6824), TCP Extensions for Multipath Operation with Multiple Addresses
+  - [RFC 7323](https://tools.ietf.org/html/rfc7323), TCP Extensions for High Performance
+  - [RFC 7414](https://tools.ietf.org/html/rfc7414), A Roadmap for TCP Specification Documents
