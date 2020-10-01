@@ -20,6 +20,7 @@ class TCPClient {
         String input;
         String output;
 
+        System.out.println("Enter text ...");
         BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in));
 
         Socket clientSocket = new Socket("localhost", 6001);
@@ -32,7 +33,7 @@ class TCPClient {
 
         output = inFromServer.readLine();
 
-        System.out.println("OUTPUT FROM SERVER: " + output);
+        System.out.println(String.format("OUTPUT FROM SERVER: %s", output));
 
         clientSocket.close();
     }

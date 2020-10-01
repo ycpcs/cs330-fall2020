@@ -13,7 +13,7 @@ import java.net.Socket;
 
 /**
  *
- * @author 
+ * @author
  */
 public class TCPServer {
 
@@ -23,8 +23,13 @@ public class TCPServer {
 
         ServerSocket welcomeSocket = new ServerSocket(6001);
 
+        System.out.println(String.format("TCP Server listening on port %d ....", welcomeSocket.getLocalPort()));
+
         while (true) {
             Socket connectionSocket = welcomeSocket.accept();
+
+            System.out.println(String.format("Connection established with %d.", connectionSocket.getPort()));
+
             BufferedReader inFromClient = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream()));
             DataOutputStream outToClient = new DataOutputStream(connectionSocket.getOutputStream());
             input = inFromClient.readLine();

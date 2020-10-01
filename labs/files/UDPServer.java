@@ -22,6 +22,9 @@ public class UDPServer {
         DatagramSocket serverSocket = new DatagramSocket(7001);
         byte[] receiveData = new byte[1024];
         byte[] sendData = new byte[1024];
+        
+        System.out.println(String.format("UDP Server listening on port %d ....", serverSocket.getLocalPort()));
+        
         while (true) {
             DatagramPacket receivePacket
                     = new DatagramPacket(receiveData,
@@ -29,12 +32,13 @@ public class UDPServer {
 
             serverSocket.receive(receivePacket);
 
-            String input = new String(
-                    receivePacket.getData());
-
             InetAddress IPAddress
                     = receivePacket.getAddress();
             int port = receivePacket.getPort();
+            System.out.println(String.format("Datagram received from %d.", port)); 
+            String input = new String(
+                    receivePacket.getData());
+            
             String capitalizedSentence
                     = input.toUpperCase();
             sendData = capitalizedSentence.getBytes();
