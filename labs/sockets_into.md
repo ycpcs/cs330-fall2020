@@ -45,9 +45,9 @@ title: "Programming Lab - Introduction to Sockets"
     - Do not be afraid to explore and brake it. Learn form it.  
 
 ### References
-- [ServerSocket](https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html)
-- [Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
-- [DatagramSocket](https://docs.oracle.com/javase/8/docs/api/java/net/DatagramSocket.html)
+- [ServerSocket](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/ServerSocket.html)
+- [Socket](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/Socket.html)
+- [DatagramSocket](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/DatagramSocket.html)
 
 ### Grading
 Post your report including source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus.
