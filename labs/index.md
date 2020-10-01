@@ -13,6 +13,6 @@ This page links to individual labs.
 > Sept 22 | Wireshark | [UDP](files/Wireshark_UDP_v7.0.pdf) <sup>*</sup> | Oct 01
 > Sept 24 | Lab | [Reliable Data Transfer](rdt.html) | Oct 08
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v7.0.pdf) | Oct 10
-> Oct 01 | Lab | [Introduction to sockets](sockets_into.html) | Oct 13
+> Oct 01 | Lab | [Introduction to Sockets](sockets_into.html) | Oct 13
 
 <sup>*</sup> Optional Lab
