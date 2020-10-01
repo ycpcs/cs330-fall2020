@@ -130,7 +130,7 @@ Technical Documentation
   - [RFC 7414](https://tools.ietf.org/html/rfc7414), A Roadmap for TCP Specification Documents
   - [RFC 8312](https://tools.ietf.org/html/rfc8312), CUBIC for Fast Long-Distance Networks
 
-##### Wireshark_UDP_v7
+##### UDP
   - [RFC 768](https://tools.ietf.org/html/rfc768), User Datagram Protocol
   - [RFC 2675](https://tools.ietf.org/html/rfc2675), IPv6 Jumbograms
   - [RFC 4113](https://tools.ietf.org/html/rfc4113), Management Information Base for the UDP
