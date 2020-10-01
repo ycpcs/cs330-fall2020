@@ -40,6 +40,7 @@ All information about the course will be posted here.
 * **Sept 12** - Lab 2: [Basic Network Footprinting](labs/lab01.html) Due
 -->
 
+* **Oct 13** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_into.html) Due
 * **Oct 10** - Wireshark Lab 4: [TCP](labs/files/Wireshark_TCP_v7.0.pdf)
 * **Oct 08** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
 * **Oct 06** - Exam 1, [Study Guide](exams/exam1_study_guide.html)
