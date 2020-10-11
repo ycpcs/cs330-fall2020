@@ -29,5 +29,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 6  | Oct 01 | Transport Layer: [Congestion Control](slides/chapter_3.pdf) | CN: 3.6 - 3.7 |  [Introduction to Sockets](../labs/sockets_into.html)
 > | | | |
 > 7  | Oct 06 | **Exam 1** | CN: 1.1 - 3.8 | [Study Guide](../exams/exam1_study_guide.html)
-
+> 7  | Oct 08 | Exam 1 & HTTP Wireshark Review | CN: 1.1 - 3.8 |
+> | | | |
+> 8  | Oct 17   | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2|
+> 8  | Oct 22   | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf) | CN: 4.3|
+> | | | |
 <sup>*</sup> Optional Lab

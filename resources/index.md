@@ -135,3 +135,27 @@ Technical Documentation
   - [RFC 2675](https://tools.ietf.org/html/rfc2675), IPv6 Jumbograms
   - [RFC 4113](https://tools.ietf.org/html/rfc4113), Management Information Base for the UDP
   - [RFC 8085](https://tools.ietf.org/html/rfc8085), UDP Usage Guidelines
+
+##### IP
+  - [RFC 791](https://tools.ietf.org/html/rfc791),  INTERNET PROTOCOL
+  - [RFC 950](https://tools.ietf.org/html/rfc950), Internet Standard Subnetting Procedure
+  - [RFC 1349](https://tools.ietf.org/html/rfc1349), Type of Service in the Internet Protocol Suite
+  - [RFC 1958](https://tools.ietf.org/html/rfc1958), Architectural Principles of the Internet
+  - [RFC 1517](https://tools.ietf.org/html/rfc1517), Applicability Statement for the Implementation of Classless Inter-Domain Routing (CIDR)
+  - [RFC 2460](https://tools.ietf.org/html/rfc2460), Internet Protocol, Version 6 (IPv6) Specification
+  - [RFC 2474](https://tools.ietf.org/html/rfc2474), Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers
+
+##### ICMP
+  - [RFC 792](https://tools.ietf.org/html/rfc792), INTERNET CONTROL MESSAGE PROTOCOL
+  - [RFC 1070](https://tools.ietf.org/html/rfc1071), Computing the Internet Checksum
+  - [RCF 1122](https://tools.ietf.org/html/rfc1122), Requirements for Internet Hosts - Communication Layers
+
+##### DHCP
+  - [RFC 2131](https://tools.ietf.org/html/rfc2131), Dynamic Host Configuration Protocol
+  - [RFC 2132](https://tools.ietf.org/html/rfc2132), DHCP Options and BOOTP Vendor Extensions
+  - [RFC 3046](https://tools.ietf.org/html/rfc3046), DHCP Relay Agent Information Option
+  - [RFC 3397](https://tools.ietf.org/html/rfc3346), Dynamic Host Configuration Protocol (DHCP) Domain Search Option
+  - [RFC 3942](https://tools.ietf.org/html/rfc3942), Reclassifying Dynamic Host Configuration Protocol Version Four (DHCPv4) Options
+  - [RFC 4242](https://tools.ietf.org/html/rfc4242), Information Refresh Time Option for Dynamic Host Configuration Protocol for IPv6
+  - [RFC 4361](https://tools.ietf.org/html/rfc4361), Node-specific Client Identifiers for Dynamic Host Configuration Protocol Version Four (DHCPv4)
+  - [RFC 4436](https://tools.ietf.org/html/rfc4436), Detecting Network Attachment in IPv4 (DNAv4)
