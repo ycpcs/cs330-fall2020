@@ -33,7 +33,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > | | | |
 > 8  | Oct 13   | Network Layer: [Overview, Router Architectures](slides/chapter_4.pdf) | CN: 4.1 - 4.2|
 > 8  | Oct 25   | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf) | CN: 4.3|
-<!--> | | | |
+<!--
+ | | | |
 > 9 | Oct 20 | Network Layer: [NAT, IPv6, ICMP](slides/chapter_4.pdf) | CN 4.3, 5.6 | Wireshark Lab - [NAT](../labs/Wireshark_NAT_v7.0.pdf)
-> 9 | Oct 22 | Network Layer: [Routing Algorithms](slides/chapter_4.pdf) | CN: 5.1 - 5.2 | -->
+> 9 | Oct 22 | Network Layer: [Routing Algorithms](slides/chapter_4.pdf) | CN: 5.1 - 5.2 |
+-->
 <sup>*</sup> Optional Lab
