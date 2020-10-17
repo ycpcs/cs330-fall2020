@@ -24,6 +24,7 @@ traffic on Windows. *Retired on November 25, 2019.*
   - netwox already contains several tools using the netwib network library.
 - [netwag](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/netwag-doc_html/) is a graphical front end for netwox.
   - netwox & netwag [Troubleshooting guide](docs\netwox.pdf)
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool.
 
 Active Capture
 ------------------------------------
