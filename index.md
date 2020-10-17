@@ -40,6 +40,8 @@ All information about the course will be posted here.
 * **Sept 12** - Lab 2: [Basic Network Footprinting](labs/lab01.html) Due
 -->
 
+* **Nov 5** - Chapter 4 [Homework](assign/homework3.html) Due
+* **Oct 29** - Wireshark 5: [NAT](labs/files/Wireshark_NAT_v7.0.pdf) Due
 * **Oct 13** - Introduction to Sockets Lab: [sockets_intro](labs/sockets_into.html) Due
 * **Oct 10** - Wireshark Lab 4: [TCP](labs/files/Wireshark_TCP_v7.0.pdf)
 * **Oct 08** - Reliable Data Transfer Lab: [RDT](labs/rdt.html) Due  
