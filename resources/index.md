@@ -146,6 +146,7 @@ Technical Documentation
   - [RFC 1517](https://tools.ietf.org/html/rfc1517), Applicability Statement for the Implementation of Classless Inter-Domain Routing (CIDR)
   - [RFC 1633](https://tools.ietf.org/html/rfc1633), Integrated Services in the Internet Architecture: an Overview
   - [RFC 2460](https://tools.ietf.org/html/rfc2460), Internet Protocol, Version 6 (IPv6) Specification
+  - [RFC 2473](https://tools.ietf.org/html/rfc2473), Generic Packet Tunneling in IPv6 Specification
   - [RFC 2474](https://tools.ietf.org/html/rfc2474), Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers
   - [RFC 2474](https://tools.ietf.org/html/rfc2475), An Architecture for Differentiated Services
   - [RFC 3439](https://tools.ietf.org/html/rfc3439), Some Internet Architectural Guidelines and Philosophy
