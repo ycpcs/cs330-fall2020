@@ -4,7 +4,7 @@ course_number: CS330
 title: "Homework: Chapter 1"
 ---
 
-### Chapter 1 Homework
+## Chapter 1 Homework
 
 ### R13.
 Suppose users share a <i>2 Mbps</i> link. Also suppose each user transmits continuously at <i>1 Mbps</i> when transmitting, but each user transmits only <i>20</i> percent of the time. (See the discussion of statistical multiplexing in Section 1.3.)
@@ -14,7 +14,7 @@ Suppose users share a <i>2 Mbps</i> link. Also suppose each user transmits conti
   - Suppose now there are three users. Find the probability that at any given time, all three
 users are transmitting simultaneously. Find the fraction of time during which the queue grows.
 
-### R16. 
+### R16.
 Consider sending a packet from a source host to a destination host over a fixed route. List the delay components in the <b>end-to-end</b> delay. Which of these delays are constant and which are variable?
 
 ### R19.
