@@ -25,6 +25,7 @@ traffic on Windows. *Retired on November 25, 2019.*
 - [netwag](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/netwag-doc_html/) is a graphical front end for netwox.
   - netwox & netwag [Troubleshooting guide](docs\netwox.pdf)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool.
+- [tcptrace](http://www.tcptrace.org/) is a tool for analysis of TCP dump files.
 
 Active Capture
 ------------------------------------
