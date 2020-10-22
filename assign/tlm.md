@@ -19,6 +19,11 @@ Here are the rules:
   - The server should not exit until it is explicitly told to do so.
   - This should be a menu-driven application with the commands __Set__ to pick the substring, __Submit__ to submit a word to the server to see if the word is in the dictionary and if the substring exists in that word, __List__ to get all words in the dictionary that contain the current set of letters as a substring, and __Quit__ to stop playing the game and print the client's current score.
 
+### Notes
+You will need to make some design decisions. (For example: How will you handle multiple clients? How will you keep the client score? Will you allow a client to continue making guesses after a List command has been given? What if a client sends a 2 or a 4-letter substring instead of a 3-letter one?). You should include in your documentation (see below) what these design decisions were and why you chose to handle them as you did. In addition, ALL code should be well documented -- you will lose points if it is not.
+
+Include comments in your source code indicating where, why, and how the original source code was modified. Also, include a README file, with instructions as to how your code is to be used.
+
 ### References
 - [ServerSocket](https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html)
 - [Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
