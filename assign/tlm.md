@@ -31,4 +31,4 @@ Include comments in your source code indicating where, why, and how the original
 
 ### Submit
 
-Post your source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. _I may ask you to demo your program to me.__
+Post your source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. _I may ask you to demo your program to me._
