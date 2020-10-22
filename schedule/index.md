@@ -35,6 +35,6 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 8  | Oct 15 | Network Layer: [IPv4, DHCP](slides/chapter_4.pdf), fragmented capture [example](files\mtu.pcapng) | CN: 4.3 |
 > | | | |
 > 9  | Oct 20 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | Wireshark Lab - [NAT](../labs/files/Wireshark_NAT_v7.0.pdf)
-> 9  | Oct 22 |
+> 9  | Oct 22 | Working on [Server](files\Cs330WebServer.java) & [Client](files\Cs330WebClient.java) | | ../assign/tlm.html
 
 <sup>*</sup> Optional Lab
