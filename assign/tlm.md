@@ -7,7 +7,7 @@ title: "Programming Assignment: Three Letter Match"
 ## Three Letter Match
 Modify _WebClient_ and _WebServer_ programs to play the word game: Three Letter Match. The basic idea is to select a three letter set and then see how many "legal" words you can think of that contain that three letter substring.
 
-Here are the rules:
+#### Here are the rules:
 
   - The client chooses a __three letter set__ (substring) which it sends to the server. Substrings should consist of letters only (no numbers, symbols, etc.) and case should not matter.
   - The server will access a dictionary of [words](words.txt), which it will use to determine if guesses made by clients are valid.
