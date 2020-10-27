@@ -36,5 +36,8 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > | | | |
 > 9  | Oct 20 | Network Layer: [IPv6, NAT](slides/chapter_4.pdf), [teredo](files\teredo.pcap), [6to4](files\6to4.pcap) | CN: 4.3 - 4.5 | Wireshark Lab - [NAT](../labs/files/Wireshark_NAT_v7.0.pdf)
 > 9  | Oct 22 | Working on [Server](files\Cs330WebServer.java) & [Client](files\Cs330WebClient.java) | | [Three Letter Match](../assign/tlm.html)
+> | | | |
+> 10 | Oct 27 | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) | CN: 5.1 - 5.2 |
+> 10 | Oct 29 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
 
 <sup>*</sup> Optional Lab
