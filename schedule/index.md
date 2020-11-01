@@ -39,5 +39,11 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > | | | |
 > 10 | Oct 27 | Network Layer: [Routing Algorithms](slides/chapter_5.pdf) & [Dijkstra's Algorithm](slides/dijkstra_algorithm.pdf) | CN: 5.1 - 5.2 |
 > 10 | Oct 29 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
+> | | | |
+> 11 | Nov 03 | Link Layer: Link Layer Functions | CN 6.1 - 6.3 |
+> 11 | Nov 05 | Link Layer: Switched LANs, Ethernet | CN: 6.4 - 6.6 |
+> | | | |
+> 12 | Nov 10 | Link Layer: VLANs | CN: 6.4 - 6.8 |
+> 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | | |
 
 <sup>*</sup> Optional Lab
