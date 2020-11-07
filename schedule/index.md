@@ -44,6 +44,6 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 11 | Nov 05 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.6 |
 > | | | |
 > 12 | Nov 10 | Link Layer: [VLANs](slides/chapter_3.pdf) | CN: 6.4 - 6.8 |
-> 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | | |
+> 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | [Study Guide](../exams/exam2_study_guide.html)
 
 <sup>*</sup> Optional Lab
