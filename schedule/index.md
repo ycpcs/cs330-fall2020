@@ -41,9 +41,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 10 | Oct 29 | Network Layer: [Internet Routing](slides/chapter_5.pdf) | CN: 5.3 - 5.4 |
 > | | | |
 > 11 | Nov 03 | Link Layer: [Link Layer Functions](slides/chapter_6.pdf) | CN 6.1 - 6.3 |
-> 11 | Nov 05 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.6 |
+> 11 | Nov 05 | In class lab - chat: Client & Server | |
 > | | | |
-> 12 | Nov 10 | Link Layer: [VLANs](slides/chapter_3.pdf) | CN: 6.4 - 6.8 |
+> 12 | Nov 10 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
 > 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
 > 13 | Nov 17 | | |
