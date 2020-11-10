@@ -47,9 +47,9 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
 > 13 | Nov 17 | | |
-> 13 | Nov 19 | | |
+> 13 | Nov 19 |  RESTful APIs | |
 > | | | |
-> 14 | Nov 24 | | |
+> 14 | Nov 24 | UDP: Multicast & Broadcast | |
 > 14 | Nov 26 | **NO CLASS - Thanksgiving Break** | |
 > | | | |
 > 15 | Dec 1 | **FINAL EXAM** | |
