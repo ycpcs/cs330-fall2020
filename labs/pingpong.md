@@ -4,7 +4,8 @@ course_number: CS330
 title: "Programming Lab: UDP Ping Pong"
 ---
 
-### Programming Assignment 2
+### Programming Lab
+
 In this programming assignment, you will write a client ping program in Java. Your client will send a simple _ping_ message to a server,
 receive a corresponding _pong_ message back from the server, and determine the delay between when the client sent the ping message and received the pong message.
 This delay is called the Round Trip Time (RTT). The functionality provided by the client and server is similar to the functionality provided by standard ping program available in modern operating systems.
