@@ -26,10 +26,10 @@ In this exercise we will create a nonstandard (but simple) UDP-based ping pong p
 - The standard _ping_ program sends exactly one ping per second, modify the client to mimic the original _ping_ behavior (instead of sending new ping immediately when it receives a reply). Feel free to use the _Timer_ and _TimerTask_ classes in _java.util_.
 
 ### References
-- [DatagramSocket](https://docs.oracle.com/javase/15/docs/api/java/net/DatagramSocket.html)
-- [DatagramPacket](https://docs.oracle.com/javase/15/docs/api/java/net/DatagramPacket.html)
-- [Timer](https://docs.oracle.com/javase/15/docs/api/java/util/Timer.html)
-- [TimerTask](https://docs.oracle.com/javase/15/docs/api/java/util/TimerTask.html)
+- [DatagramSocket](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/DatagramSocket.html)
+- [DatagramPacket](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/net/DatagramPacket.html)
+- [Timer](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/Timer.html)
+- [TimerTask](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/TimerTask.html)
 
 ### Submit
 Post your source in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. I may ask you to demo your program to me.
