@@ -15,5 +15,6 @@ This page links to individual labs.
 > Sept 29 | Wireshark | [TCP](files/Wireshark_TCP_v7.0.pdf) - [local capture](files\tcp.pcapng) | Oct 10
 > Oct 01 | Programming Lab | [Introduction to Sockets](sockets_into.html) | Oct 13
 > Oct 20 | Wireshark | [NAT](files/Wireshark_NAT_v7.0.pdf) | Oct 29
+> Nov 17 | Programming Lab | [Ping Pong](pingpong.html) | Nov 30 
 
 <sup>*</sup> Optional Lab
