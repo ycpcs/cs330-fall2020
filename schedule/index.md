@@ -46,7 +46,7 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 12 | Nov 10 | Link Layer: [Switched LANs, Ethernet](slides/chapter_6.pdf) | CN: 6.4 - 6.8 |
 > 12 | Nov 12 | **Exam 2** | CN: 4.1 - 6.8 | [Study Guide](../exams/exam2_study_guide.html)
 > | | | |
-> 13 | Nov 17 | Exam Review | | (ping=pong)[../labs/pingpong.html)
+> 13 | Nov 17 | Exam Review | | [ping-pong](../labs/pingpong.html)
 > 13 | Nov 19 |  RESTful APIs | [Soccer](files/Soccer.java), [Student](files/Student.java), [Cs330Resource](files/Cs330Resource.java), [ApplicationConfig](files/ApplicationConfig.java)|
 > | | | |
 > 14 | Nov 24 | UDP: Multicast & Broadcast | |
