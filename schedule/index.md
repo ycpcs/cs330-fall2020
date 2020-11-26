@@ -52,6 +52,6 @@ CN: [Computer Networking: A Top-Down Approach](https://www.pearson.com/us/higher
 > 14 | Nov 24 | UDP: Multicast & Broadcast | |
 > 14 | Nov 26 | **NO CLASS - Thanksgiving Break** | |
 > | | | |
-> 15 | Dec 1 | **FINAL EXAM** | CN 1.1 - 6.8 | 6:30 PM - 8:30 PM
+> 15 | Dec 1 | **FINAL EXAM** | CN: 1.1 - 6.8 | 6:30 PM - 8:30 PM
 
 <sup>*</sup> Optional Lab
