@@ -39,7 +39,7 @@ All information about the course will be posted here.
 * **Sept 17** - Assignment 2: [Homework - Chapter 1](assign/assign02.html) Due
 * **Sept 12** - Lab 2: [Basic Network Footprinting](labs/lab01.html) Due
 -->
-
+* **Dec 01** - Final Exam @ 6:30 PM - 8:30 PM
 * **Nov 30** - Ping Pong Lab: [ping-pong](labs/pingpong.html) Due
 * **Nov 12** - Exam 2 [Study Guide](exams/exam2_study_guide.html)
 * **Nov 08** - Three Letter Match [tlm](assign/tlm.html) Due
